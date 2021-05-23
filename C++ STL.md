@@ -263,3 +263,10 @@ set内部通过红黑树（RBtree）实现,插入元素的效率高。
 
 unordered_set通过散列表实现，查找元素的效率高。其采用分离链表法来处理哈希冲突。当散列表中元素的数量超过一定值时，为了保证查找的效率，散列表会采用某种策略进行再散列。
 
+
+
+
+
+## 参考链接
+
+原PPT： [https://github.com/Cubafehis0/Cpp_STL/blob/main/C%2B%2B%20STL.pptx](https://github.com/Cubafehis0/Cpp_STL/blob/main/C%2B%2B STL.pptx)
